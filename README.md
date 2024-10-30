@@ -1,4 +1,4 @@
-#Linear Regression Model for Nairobi Office Prices
-#Category: Regression
-#Sub-Category: Linear Regression
-#Date: 10/30/2024
+# Linear Regression Model for Nairobi Office Prices <br>
+# Category: Regression <br>
+# Sub-Category: Linear Regression <br>
+# Date: 10/30/2024 <br>
